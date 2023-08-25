@@ -15,4 +15,10 @@
     font-weight: 400;
 }
 
+#question {
+    font-size: 2vmin;
+}
 
+#answers {
+    font-size: 3vmin;
+}
