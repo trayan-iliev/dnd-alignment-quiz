@@ -1,0 +1,18 @@
+/* Color scheme variables */
+:root {
+    --color1: #252323;
+    --color2: #344966;
+    --color3: #b4cded;
+    --color4: #f0f4ef;    
+}
+
+/* Global settings */
+* body {
+    background-color: var(--color1);
+    color: var(--color4);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5vmin;
+    font-weight: 400;
+}
+
+
